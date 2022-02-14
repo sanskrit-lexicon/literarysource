@@ -1,0 +1,10 @@
+Sr. No.	Book	Author	Year	Link
+1	Böhtlingk and Roth Grosses Petersburger Wörterbuch	Böhtlingk and Roth	https://github.com/sanskrit-lexicon-scans/PW
+2	Benfey Sanskrit-English Dictionary	Benfey	https://github.com/sanskrit-lexicon-scans/BEN
+3	Śabdakalpadruma	Rādhākāntadeva	https://github.com/sanskrit-lexicon-scans/skd
+4	Wilson Sanskrit-English Dictionary	Wilson	https://github.com/sanskrit-lexicon-scans/wil
+5	Dr. John Muir's Sanskrit Text	Dr. John Muir	Vol1 - https://archive.org/details/cu31924070622067, Vol2 - https://archive.org/details/cu31924070622075, Vol3 - https://archive.org/details/cu31924024580312/page/n5/mode/2up, Vol4 - https://archive.org/details/cu31924070622091, Vol5 - https://archive.org/details/cu31924070622109, General search - https://archive.org/search.php?query=John%20Muir%20Sanskrit%20Texts
+6	Andrew's Latin-English Dictionary	Ethen Allen Andrew	
+7	Asiatic Researches		
+8	Asiatic Society's (Royal) Journal		
+9	Catalogue of S
