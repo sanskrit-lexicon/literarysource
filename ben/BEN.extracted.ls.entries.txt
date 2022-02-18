@@ -1,0 +1,219 @@
+<ls>Āśvalāy. Gṛhyas.</ls>
+<ls>Āśval. S.</ls>
+<ls>Ānandal.</ls>
+<ls>Śāṇḍilyas.</ls>
+<ls>Śāk.</ls>
+<ls>Śāntiś.</ls>
+<ls>Śārṅg.</ls>
+<ls>Śātr.</ls>
+<ls>Śṛṅgārat.</ls>
+<ls>ŚKD.</ls>
+<ls>Śakuntalop.</ls>
+<ls>Śatr.</ls>
+<ls>Śiś.</ls>
+<ls>Śrut.</ls>
+<ls>Śrutab.</ls>
+<ls>Śukas.</ls>
+<ls>Śukasapt.</ls>
+<ls>Śvet. Up.</ls>
+<ls>Ṛt.</ls>
+<ls>Ait. Br.</ls>
+<ls>Amar.</ls>
+<ls>Amarak.</ls>
+<ls>Amarakoṣa</ls>
+<ls>Anth.</ls>
+<ls>Arj.</ls>
+<ls>Arji Bordschi</ls>
+<ls>Atharv.-Ved.</ls>
+<ls>Atharva-V.</ls>
+<ls>Böhtl. Chr.</ls>
+<ls>Böhtl. Ind. Spr.</ls>
+<ls>Böhtl. Roth. Sskr. Wörterbuch.</ls>
+<ls>Böhtl. Roth.</ls>
+<ls>Bālab.</ls>
+<ls>Bṛh. Ār. Up.</ls>
+<ls>Bṛhaspati</ls>
+<ls>Berl. Handschriften</ls>
+<ls>Berl. Monatsb.</ls>
+<ls>Berol.</ls>
+<ls>Bhāṣāp.</ls>
+<ls>Bhāg. P.</ls>
+<ls>Bhāg.</ls>
+<ls>Bhaṭṭ.</ls>
+<ls>Bhaṭṭik.</ls>
+<ls>Bhag.</ls>
+<ls>Bhagav.</ls>
+<ls>Bharata</ls>
+<ls>Bhartṛ.</ls>
+<ls>Bhaviṣyap.</ls>
+<ls>Brāhmaṇ.</ls>
+<ls>Brāhmaṇav.</ls>
+<ls>Br.</ls>
+<ls>Brahmav.</ls>
+<ls>Brahmavaiv. P.</ls>
+<ls>Cāṇ.</ls>
+<ls>Cāṭ.</ls>
+<ls>Cāt.</ls>
+<ls>Caur.</ls>
+<ls>Caurap.</ls>
+<ls>Chānd. Up.</ls>
+<ls>Chr.</ls>
+<ls>Colebr. Essays</ls>
+<ls>Daśak.</ls>
+<ls>Daśarūp.</ls>
+<ls>Daśar.</ls>
+<ls>Dev.</ls>
+<ls>Dhūrtas.</ls>
+<ls>Draup.</ls>
+<ls>Episod. MBh. de Śakuntala</ls>
+<ls>Fausböll, Dhammap.</ls>
+<ls>Gött. Gel. Anz.</ls>
+<ls>Götting. Gel. Anz.</ls>
+<ls>Gīt.</ls>
+<ls>Ghaṭ.</ls>
+<ls>Ghaṭak.</ls>
+<ls>Gorr.</ls>
+<ls>Govardh. Āryā Sapt.</ls>
+<ls>Govardh. Āryā Saptaśatī</ls>
+<ls>Govardhana, Āryā Sapt.</ls>
+<ls>Häb.</ls>
+<ls>Häberl. Anth.</ls>
+<ls>Häberl. Anthol.</ls>
+<ls>Häberl. Chr.</ls>
+<ls>Häberl.</ls>
+<ls>Haeb. Anth.</ls>
+<ls>Hariv.</ls>
+<ls>Hemac.</ls>
+<ls>Hiḍ.</ls>
+<ls>Hind. Th.</ls>
+<ls>Hind. Theat.</ls>
+<ls>Hind. Theatr.</ls>
+<ls>Hindu Dr.</ls>
+<ls>Hit. pr.</ls>
+<ls>Hit.</ls>
+<ls>Ind. St.</ls>
+<ls>Indr.</ls>
+<ls>Introd. à l'Hist. du Buddh.</ls>
+<ls>Jaṭādh.</ls>
+<ls>Johns. Sel.</ls>
+<ls>Johns.</ls>
+<ls>Journ. As.</ls>
+<ls>Journ. of the German Oriental Society</ls>
+<ls>Kāśīkh.</ls>
+<ls>Kām. Nītis.</ls>
+<ls>Kāmand. Nītis.</ls>
+<ls>Kātyāyana S.</ls>
+<ls>Kāvya Prak.</ls>
+<ls>Kūmar.</ls>
+<ls>Kathā.</ls>
+<ls>Kathās.</ls>
+<ls>Kirātārj.</ls>
+<ls>Kirāt.</ls>
+<ls>Kir.</ls>
+<ls>Kos.</ls>
+<ls>Kuśumāñjali</ls>
+<ls>Kull.</ls>
+<ls>Kumāras.</ls>
+<ls>Kusumāñj.</ls>
+<ls>Kusumāñjali</ls>
+<ls>Lalit.</ls>
+<ls>Lass. Anth.</ls>
+<ls>Lass. Pentap.</ls>
+<ls>Lass.</ls>
+<ls>Lenz. App. cr.</ls>
+<ls>Mém. sur les Contrées Occident., par Hiouen Thsang.</ls>
+<ls>Māl.</ls>
+<ls>Mālatīm.</ls>
+<ls>Mālat.</ls>
+<ls>Mālav.</ls>
+<ls>Mān.</ls>
+<ls>Mārk. P.</ls>
+<ls>Mṛcch.</ls>
+<ls>M. Müller, Anc. Sskr. Lit.</ls>
+<ls>M.</ls>
+<ls>MBh.</ls>
+<ls>Mahāvīr.</ls>
+<ls>Mahāvīrac.</ls>
+<ls>Mahāv.</ls>
+<ls>Mah.</ls>
+<ls>Mallin.</ls>
+<ls>Man.</ls>
+<ls>Mark. P.</ls>
+<ls>Matsyop.</ls>
+<ls>Megh.</ls>
+<ls>Mit.</ls>
+<ls>Monatsb. Berl. Ak. Hist. Phil.</ls>
+<ls>Monatsb. d. Berl. Ak. Hist. Phil.</ls>
+<ls>Monatsb. d. Berl. Ak. d. Wiss.</ls>
+<ls>Monatsber. Berl. Ak. Hist. Phil.</ls>
+<ls>Monatsber. der Berliner Ak. Hist. Phil.</ls>
+<ls>Mricch.</ls>
+<ls>Mudrār.</ls>
+<ls>Naiṣ.</ls>
+<ls>Nal.</ls>
+<ls>Nalod.</ls>
+<ls>Navar.</ls>
+<ls>Nyāya S.</ls>
+<ls>Pāṇ.</ls>
+<ls>Pānch.</ls>
+<ls>Pārask.</ls>
+<ls>Pāraskara Gṛ. S.</ls>
+<ls>Pañc. pr.</ls>
+<ls>Pañc.</ls>
+<ls>Padmap.</ls>
+<ls>Prātiś.</ls>
+<ls>Prab.</ls>
+<ls>Rāgh.</ls>
+<ls>Rājat.</ls>
+<ls>Rām.</ls>
+<ls>Rāmatap. Up.</ls>
+<ls>R.</ls>
+<ls>Ragh.</ls>
+<ls>Ratnāv.</ls>
+<ls>Rigv.</ls>
+<ls>Sāṅkhya Aph.</ls>
+<ls>Sāṅkhyak.</ls>
+<ls>Sāh. D.</ls>
+<ls>Sāh. Darp.</ls>
+<ls>Sāhitya Darp.</ls>
+<ls>Sāv.</ls>
+<ls>Sūryas.</ls>
+<ls>Schl.</ls>
+<ls>Siddh. K.</ls>
+<ls>Siddh. Mukt.</ls>
+<ls>Skanda P., Kāśīkh.</ls>
+<ls>Skandap., Kāśīkh.</ls>
+<ls>Somad. Nal.</ls>
+<ls>Spec. of the Theatre of the Hind.</ls>
+<ls>Stenzler</ls>
+<ls>Suśr.</ls>
+<ls>Sund.</ls>
+<ls>Tarkasaṃgr.</ls>
+<ls>Tattvas.</ls>
+<ls>Th. of the Hind.</ls>
+<ls>Trans. of the R.A.S.</ls>
+<ls>Ujjvalad.</ls>
+<ls>Upak.</ls>
+<ls>Utt. Rāmac.</ls>
+<ls>Uttararāmac.</ls>
+<ls>Vāmanap.</ls>
+<ls>Vārt.</ls>
+<ls>Vāsav.</ls>
+<ls>Vāsavad.</ls>
+<ls>VP.</ls>
+<ls>VS.</ls>
+<ls>Varāh. Bṛh. S.</ls>
+<ls>Varāh. Bṛh.</ls>
+<ls>Vedānt.</ls>
+<ls>Vedāntas.</ls>
+<ls>Vetālap.</ls>
+<ls>Vetālapañcav.</ls>
+<ls>Viṣṇu P.</ls>
+<ls>Vikr.</ls>
+<ls>Vop.</ls>
+<ls>Yājñ.</ls>
+<ls>Yoga.</ls>
+<ls>Yogas.</ls>
+<ls>cod. Berol.</ls>
+<ls>cod. Petersb.</ls>
+<ls>pr.</ls>
