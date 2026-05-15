@@ -4,25 +4,43 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**literarysource** is a research repository for studying the literary sources (`<ls>` references) cited in various CDSL dictionaries and identifying scanned books that can provide browsable links for those citations. Related to [COLOGNE issue #390](https://github.com/sanskrit-lexicon/COLOGNE/issues/390).
+**literarysource** is a Sanskrit Lexicon **linking-tool** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
 
-## Architecture
+## Repo Category
 
-Each subdirectory corresponds to one dictionary and contains authority/bibliography files used to resolve `<ls>` citations:
+`linking-tool` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
 
-| Directory | Dictionary |
-|---|---|
-| `ap90/` | Apte's Sanskrit-English Dictionary (AP90) |
-| `ben/` | Benfey Sanskrit-English Dictionary |
-| `mw/` | Monier-Williams Sanskrit-English Dictionary (`mwauth.txt`) |
-| `mw72/` | Monier-Williams 1872 |
-| `pw/` | Böhtlingk Sanskrit-Wörterbuch |
-| `pwg/` | Böhtlingk-Roth Großes Sanskrit-Wörterbuch |
+## GitHub Issue Conventions
 
-### `mwauth.txt` format
+This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
+- **Exactly one type label** (9 options)
+- **Exactly one severity label** (4 levels)
+- **One milestone** (5 options)
 
-The authority file lists literary source abbreviations with their full bibliographic references, used to map `<ls>abbrev.</ls>` tags in dictionary XML to human-readable citations and eventually to scanned-book URLs.
+### Type Labels
+- `bug` — Code defect (wrong output, broken contract)
+- `feature` — Net-new capability
+- `enhancement` — Improvement to existing capability
+- `performance` — Speed, memory, throughput optimization
+- `tech-debt` — Refactoring, cleanup, dependency updates
+- `security` — CVE, auth issue, credential exposure
+- `documentation` — Prose docs, API docs, comments
+- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
+- `question` — Research, proposals, open discussions
 
-## Dependencies
+### Severity Labels
+- `trivial` — Cosmetic, < 1 hour
+- `minor` — Single function/component
+- `major` — Multiple files, design decision
+- `critical` — Blocks users, data loss/security CVE
 
-No scripts — this is a data/research repository. Analysis work is done in the per-dictionary subdirectories.
+### Milestones
+- **API Stability** — performance, security, regressions
+- **User Experience** — bugs, features, enhancements
+- **Data Quality** — data-pipeline issues, integrity
+- **Developer Experience** — tech-debt, infrastructure, docs
+- **Community** — questions, proposals, discussions
+
+## Cross-Repo Coordination
+
+The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
